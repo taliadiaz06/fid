@@ -1,0 +1,79 @@
+﻿body {
+    font-family: "Outfit", 'Times New Roman', Times, serif;
+    background-color: bisque;
+    margin: 0 10%;
+    font-size: 100%;
+}
+
+header {
+    text-align: center;
+    padding-top: 1em;
+}
+
+h1 {
+    text-align: center;
+    font-family: "DM Serif Display", 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ff6a00;
+    margin-top: 30px;
+}
+
+h2 {
+    color: brown;
+    font-size: 1em;
+    font-family: "DM Serif Display", 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    border-bottom: 2px solid #ff6a00;
+}
+
+footer {
+    border-top: 2px solid #ff6a00;
+    text-align: center;
+    padding-top: 1em;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+a:link {
+    color: #ff6a00;
+}
+
+a:visited {
+    color: #d35816;
+}
+
+a:focus, a:hover {
+    color: #ff9c00;
+}
+
+a:active {
+    color: #68d5ff;
+}
+
+dt {
+    font-weight: bold;
+}
+
+strong {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#info p {
+    font-style: italic;
+}
